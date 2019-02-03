@@ -34,14 +34,15 @@ background-position: right top 80%;
 }
 
 .form input {
-  font-family: Futura;
+  font-family: "Futura", sans-serif;
   width: 86px;
-  height: 22px;
+  height: 30px;
   color: rgba(44, 51, 86, 0.2);
   background: #ffffff;
   width: 100%;
   border: 0;  
   box-sizing: border-box;
+  outline: none;
   font-size: 14px;
 }
 
@@ -70,8 +71,8 @@ background-position: right top 80%;
   color: #FFFFFF;
   font-size: 16px;
   font-weight: 700;
-  padding-top: 13px;
-  padding-bottom: 22px;
+  padding-top: 17px;
+  padding-bottom: 18px;
   margin: 26px 27px 21px 16px;
   box-shadow: none;
 }
